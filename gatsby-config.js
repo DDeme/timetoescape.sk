@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/escape_room`,
   plugins: [
     {
       resolve: `gatsby-theme-codebushi`,

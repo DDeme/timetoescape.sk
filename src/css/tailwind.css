@@ -1,11 +1,11 @@
 @tailwind base;
 
 a {
-  @apply text-primary;
+  @apply text-white;
 }
 a:hover {
-  @apply text-primary-darker;
-}
+  @apply text-orange-200;
+} 
 
 @tailwind components;
 
