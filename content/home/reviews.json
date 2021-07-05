@@ -29,6 +29,15 @@
     "customerImage": "reviews/3.jpg",      
     "date": "2020-09-10T00:45:00.000Z",
     "source": "Facebook"
-    }
+   },
+   {
+    "rating": 5,
+    "scale": 5,
+    "content": "Skvelý príbeh, ešte lepšie úlohy. Escape rooms sme prešli už mnoho, ale táto bola naozaj dobrá. Napätie, jedinečné úlohy, aké sme ešte neriešili, skvelé priestory- mnoho miestností a celé to bol úžasný zážitok, ktorý rozhodne stojí za to. Personál bol taktiež veľmi milý no a my sa už teraz tešíme na ďalšie miestnosti! -ESKA team ❤️",
+    "customerName": "Ema Katarína Mišendová",
+    "customerImage": "reviews/4.jpg",      
+    "date": "2020-05-16T12:22:00.000Z",
+    "source": "Facebook"
+   }
   ]
 }
