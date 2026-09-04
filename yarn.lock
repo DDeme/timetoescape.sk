@@ -16126,10 +16126,10 @@ react-image-lightbox@5.1.4:
     prop-types "^15.7.2"
     react-modal "^3.11.1"
 
-react-in-viewport@1.0.0-alpha.28:
-  version "1.0.0-alpha.28"
-  resolved "https://registry.yarnpkg.com/react-in-viewport/-/react-in-viewport-1.0.0-alpha.28.tgz#3957cb7931ec26582497acd14f7c3941f020fe75"
-  integrity sha512-SjBVCPUIRfJb516BUev1u/dejBfI5jIcskDz4Irq2RezNG7D199eER8reRzZX+w/FLxz21rpdqRbJbagv5n37Q==
+react-in-viewport@1.0.0-beta.10:
+  version "1.0.0-beta.10"
+  resolved "https://registry.yarnpkg.com/react-in-viewport/-/react-in-viewport-1.0.0-beta.10.tgz#2ac27d78959cd60378e7d747fa1cec19c53c535b"
+  integrity sha512-BLVVFajf3cOtHDuAXld9G3rZVK9GNnm7XxdH+6oyHhmVg7WIThiMeb0ZJ8hLU7In8vEJoct+UTJ7kUUXOw7gHg==
   dependencies:
     hoist-non-react-statics "^3.0.0"
 
